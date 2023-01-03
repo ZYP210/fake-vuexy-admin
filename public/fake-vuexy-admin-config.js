@@ -1,0 +1,1 @@
+window.FAKE_VUEXY_ADMIN={"VITE_PORT":3100,"VITE_PUBLIC_PATH":"/","VITE_PROXY":[["/basic-api","http://localhost:3000"],["/upload","http://localhost:3300/upload"]],"VITE_GLOB_APP_TITLE":"Vero Admin","VITE_GLOB_LOGIN_TITLE":"吴伟是个大帅比"};Object.freeze(window.FAKE_VUEXY_ADMIN);Object.defineProperty(window,"FAKE_VUEXY_ADMIN",{configurable:false,writable:false,});
